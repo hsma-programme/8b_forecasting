@@ -1,5 +1,5 @@
 ---
-title: HSMA 8A - Forecasting
+title: HSMA 8B - Forecasting
 format:
     html:
         self-contained: false
@@ -31,6 +31,8 @@ For all code-along notebooks and exercises, you have several options.
 {{< video https://www.youtube.com/watch?v=akkG4XOf-_E >}}
 
 <https://www.youtube.com/watch?v=akkG4XOf-_E>
+
+Slides for part 1: <https://github.com/hsma-programme/8b_forecasting/blob/main/HSMA%205%20Slides%20-%20Part%201%20-%20Intro%20to%20Forecasting.pdf>
 
 - Work through the code-along notebooks that Elliott goes through in the video
     - examples/01_pandas_time_series.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/01_pandas_time_series.ipynb">
@@ -71,6 +73,8 @@ For all code-along notebooks and exercises, you have several options.
 {{< video https://www.youtube.com/watch?v=6vFpnSYlUyI >}}
 
 <https://www.youtube.com/watch?v=6vFpnSYlUyI>
+
+Slides for part 2: <https://github.com/hsma-programme/8b_forecasting/blob/main/HSMA%205%20Slides%20-%20Part%202%20-%20Forecasting%20with%20Prophet.pdf>
 
 :::{.callout-tip}
 In the video, Elliott uses v1.0.0 of Prophet. The environment contains a newer version this year that should have Mac chip compatability
