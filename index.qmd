@@ -7,6 +7,14 @@ format:
 
 ## Running the code
 
+:::{.callout-warning}
+Due to some environment issues that have not been fully resolved, you may run into issues on some platforms when running the code. This is due to some changes in newer versions of packages that were necessary to include for compatability reasons.
+
+**For now, I would recommend just watching the lecture videos.**
+
+However, if you are keen to still try the exercises/code-alongs but run into issues, I would recommend skipping to the next part of the exercise/code-along notebook or the next exercise/code-along notebook.
+:::
+
 For all code-along notebooks and exercises, you have several options.
 
 - Run it locally on your machine using the hsma_forecast environment
@@ -33,6 +41,15 @@ For all code-along notebooks and exercises, you have several options.
 <https://www.youtube.com/watch?v=akkG4XOf-_E>
 
 Slides for part 1: <https://github.com/hsma-programme/8b_forecasting/blob/main/HSMA%205%20Slides%20-%20Part%201%20-%20Intro%20to%20Forecasting.pdf>
+
+
+:::{.callout-warning}
+Due to some environment issues that have not been fully resolved, you may run into issues on some platforms when running the code. This is due to some changes in newer versions of packages that were necessary to include for compatability reasons.
+
+**For now, I would recommend just watching the lecture videos.**
+
+However, if you are keen to still try the exercises/code-alongs but run into issues, I would recommend skipping to the next part of the exercise/code-along notebook or the next exercise/code-along notebook.
+:::
 
 - Work through the code-along notebooks that Elliott goes through in the video
     - examples/01_pandas_time_series.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/01_pandas_time_series.ipynb">
@@ -78,6 +95,14 @@ Slides for part 2: <https://github.com/hsma-programme/8b_forecasting/blob/main/H
 
 :::{.callout-tip}
 In the video, Elliott uses v1.0.0 of Prophet. The environment contains a newer version this year that should have Mac chip compatability
+:::
+
+:::{.callout-warning}
+Due to some environment issues that have not been fully resolved, you may run into issues on some platforms when running the code. This is due to some changes in newer versions of packages that were necessary to include for compatability reasons.
+
+**For now, I would recommend just watching the lecture videos.**
+
+However, if you are keen to still try the exercises/code-alongs but run into issues, I would recommend skipping to the next part of the exercise/code-along notebook or the next exercise/code-along notebook.
 :::
 
 - Work through the code-along notebooks that Elliott goes through in the video
