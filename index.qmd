@@ -29,7 +29,7 @@ For all code-along notebooks and exercises, you have several options.
 
 <https://www.youtube.com/watch?v=akkG4XOf-_E>
 
-- Work through the code-along notebooks that Elliot goes through in the video
+- Work through the code-along notebooks that Elliott goes through in the video
     - examples/01_pandas_time_series.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/01_pandas_time_series.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -70,10 +70,10 @@ For all code-along notebooks and exercises, you have several options.
 <https://www.youtube.com/watch?v=6vFpnSYlUyI>
 
 :::{.callout-tip}
-In the video, Elliot uses v1.0.0 of Prophet. The environment contains a newer version this year that should have Mac chip compatability
+In the video, Elliott uses v1.0.0 of Prophet. The environment contains a newer version this year that should have Mac chip compatability
 :::
 
-- Work through the code-along notebooks that Elliot goes through in the video
+- Work through the code-along notebooks that Elliott goes through in the video
 
     - examples/04_prophet_1_preprocessing.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/04_prophet_1_preprocessing.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -97,3 +97,40 @@ In the video, Elliot uses v1.0.0 of Prophet. The environment contains a newer ve
     - solutions/3_forecasts_with_prophet.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/solutions/3_forecasts_with_prophet_SOLUTIONS.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
+## Optional Bonus Reading and Videos
+
+If you are interested in learning more about forecasting, here are some additional resources.
+
+### Book - Forecasting: Principles and Practice
+
+While this eBook is R-focussed, it's a great overview of various elements of forecasting.
+
+<https://otexts.com/fpp3/>
+
+There is a repository of Python equivalent code.
+
+<https://github.com/zgana/fpp3-python-readalong>
+
+### Videos - Advanced forecasting methods
+
+These additional videos **are completely optional** and only recommended if this is an area you are extremely interested in - even then, Prophet may be sufficient for your use case, and you should be warned that the code used in these videos is complex!
+
+#### Auto-regressive Forecasting using OLS
+
+{{< video https://www.youtube.com/watch?v=ftYxpwQGUz0 >}}
+
+You can download the notebook here:
+
+<https://github.com/health-data-science-OR/forecasting/blob/master/05_autoregression/autoregression1.ipynb>
+
+#### Using Feedforward neural networks for forecasting
+
+{{< video https://www.youtube.com/watch?v=SyHVMAjL-I0 >}}
+
+{{< video https://www.youtube.com/watch?v=OV39MtxOlFk >}}
+
+You can explore a range of notebooks here:
+
+<https://github.com/health-data-science-OR/forecasting/tree/master/06_neural_networks>
