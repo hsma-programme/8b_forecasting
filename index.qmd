@@ -69,6 +69,10 @@ For all code-along notebooks and exercises, you have several options.
 
 <https://www.youtube.com/watch?v=6vFpnSYlUyI>
 
+:::{.callout-tip}
+In the video, Elliot uses v1.0.0 of Prophet. The environment contains a newer version this year that should have Mac chip compatability
+:::
+
 - Work through the code-along notebooks that Elliot goes through in the video
 
     - examples/04_prophet_1_preprocessing.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/04_prophet_1_preprocessing.ipynb">
