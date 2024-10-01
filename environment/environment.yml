@@ -1,4 +1,4 @@
-name: forecast
+name: hsma_forecast
 channels:
   - conda-forge
 dependencies:
