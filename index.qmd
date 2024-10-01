@@ -1,0 +1,37 @@
+---
+title: HSMA 8A - Forecasting
+format:
+    html:
+        self-contained: true
+---
+
+## Part 1 - Introduction to Forecasting Principles and Naive Models
+
+{{< video https://www.youtube.com/watch?v=akkG4XOf-_E >}}
+
+- Work through the code-along notebooks that Elliot goes through in the video
+    - examples/01_pandas_time_series.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/01_pandas_time_series.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+    - examples/02_exploring_ts.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/02_exploring_ts.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+    - examples/03_benchmark_forecasts.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/03_benchmark_forecasts.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Have a go at the exercises
+    - exercises/1_exploring_time_series_data.ipynb
+    - exercises/2_naive_models.ipynb
+
+
+## Part 2 - Forecasting with the Prophet library
+
+{{< video https://www.youtube.com/watch?v=6vFpnSYlUyI >}}
+
+- Work through the code-along notebooks that Elliot goes through in the video
+
+    - examples/04_prophet_1_preprocessing.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/04_prophet_1_preprocessing.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+    - examples/05_prophet_2_basic_prophet_model.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/examples/05_prophet_2_basic_prophet_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+    - examples/06_prophet_3_prophet_with_holidays.ipynb <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/8b_forecasting/blob/main/main/examples/06_prophet_3_prophet_with_holidays.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+- Have a go at the exercise
+    - 3_forecasts_with_prophet.ipynb
